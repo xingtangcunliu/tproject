@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Usb设备控制器</string>
+    <string name="action_settings">设置</string>
+
+    <string name="usb_new_directory">新建目录</string>
+    <string name="usb_enter_dirname">请输入目录名</string>
+    <string name="usb_ok">确定</string>
+    <string name="usb_cancel">取消</string>
+    <string name="usb_new_file">新建文件</string>
+    <string name="usb_enter_filename">请输入文件名</string>
+    <string name="usb_copy_file">拷贝文件</string>
+    <string name="usb_copy_file_hint">拷贝文件到本机，这可能需要点时间</string>
+    <string name="usb_cannot_openfile">找不到打开这个文件的应用</string>
+    <string name="usb_no_devices">找不到设备</string>
+    <string name="usb_rename">重命名</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="delete">删除</string>
+    <string name="create_file">创建文件</string>
+    <string name="create_dir">创建目录</string>
+    <string name="create_big_file">创建大文件</string>
+    <string name="rename">重命名</string>
+    <string name="paste">粘贴</string>
+    <string name="move">移动文件</string>
+    <string name="name">文件名：</string>
+    <string name="content">文件内容：</string>
+    <string name="directory">文件夹</string>
+    <string name="file">文件</string>
+    <string name="start_http_server">通过HTTPServer操作</string>
+    <string name="stop_http_server">停止HTTPServer</string>
+    <string name="run_tests">执行测试</string>
+    <string name="run_storage_provider">执行StorageProvider</string>
+    <string name="copy_to_usb">拷贝文件到USB设备</string>
+    <string name="request_write_storage_perm">请授权允许App从USB外设拷贝文件</string>
+    <string name="permission_granted">已经授权操作</string>
+    <string name="permission_denied">还未授权，无法拷贝文件</string>
+</resources>
